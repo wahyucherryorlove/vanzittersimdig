@@ -1,7 +1,7 @@
 import { Header } from "@components/navbar/Header";
 import { Sidebar } from "@components/navbar/Sidebar";
 
-import { DaftarUjian } from "@components/dashboard/daftar-ujian";
+import { DaftarUjian } from "@components/dashboard/DaftarUjian";
 
 import { ListDaftarUjian } from "@temp/list-daftar-ujian";
 

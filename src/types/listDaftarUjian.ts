@@ -1,7 +1,7 @@
 interface ListDaftarUjian {
   id: number;
   subjects: string;
-  timer: string;
+  timer: number;
   timetable: string;
   teacher: string;
   status: string;
